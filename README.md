@@ -2,7 +2,7 @@
 
 FoxChat is two things: the chatbot itself, designed around the Tech Elevator curriculum to help students get answers to questions they may have about academic topics as well as Pathway (interviews, job search, networking skills) topics, and the selling page, designed with expansion in mind and highlighting the ability to customize the chatbot to whatever business needs might find a chatbot useful. 
 
-
+<img src="images/FoxChat Landing Page.png" alt="Landing Page" width="80" height="80">
 
 ## Getting Started
 
