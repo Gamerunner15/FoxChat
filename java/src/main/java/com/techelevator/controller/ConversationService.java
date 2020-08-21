@@ -53,7 +53,7 @@ public class ConversationService {
 		controller.loadKeywords();
 	}
 	
-	@PreAuthorize("isAuthenticated()")
+	//@PreAuthorize("isAuthenticated()")
 	@ResponseStatus(HttpStatus.ACCEPTED)
 	@RequestMapping(path="/topics", method = RequestMethod.GET)
 	public Map<String, Integer> getSearchedTopics() {
