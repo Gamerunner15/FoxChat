@@ -61,8 +61,8 @@ npm run serve
 The tests for this program were written in Java utilizing the junit dependency. To run the tests, you can run any of the classes within the src/test/java folder. Each class is responsible for testing the relevant methods in the application's corresponding classes. 
 
 ## Contributors
-* [Kolton Nay](https://www.linkedin.com/in/koltonnay/) Specialty: Vue.js
-* [Jay Roever](https://www.linkedin.com/in/jayroever/) Specialty: Java Web Services
+* [Kolton Nay](https://www.linkedin.com/in/koltonnay/) Specialty: Java Web Services
+* [Jay Roever](https://www.linkedin.com/in/jayroever/) Specialty: Vue.js + CSS
 * [Mark Seymour](https://www.linkedin.com/in/mark-a-seymour/) Speciality: PostgreSQL
 
 
